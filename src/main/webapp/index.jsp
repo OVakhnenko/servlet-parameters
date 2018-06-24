@@ -15,7 +15,7 @@
         <tr>
             <td><b>Parameter1</b></td>
             <td><input type = "text" name = "parameter1"
-                       value = "http://localhost/some-test-url" size = "70"/></td>
+                       value = "http://openshift.com/vakhnenzon" size = "70"/></td>
         </tr>
 
         <tr>
